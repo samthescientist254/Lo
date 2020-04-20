@@ -1,0 +1,14 @@
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\bin\Release\netcoreapp2.2\LoanAppraisalApi.deps.json
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\bin\Release\netcoreapp2.2\LoanAppraisalApi.runtimeconfig.json
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\bin\Release\netcoreapp2.2\LoanAppraisalApi.runtimeconfig.dev.json
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\bin\Release\netcoreapp2.2\LoanAppraisalApi.dll
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\bin\Release\netcoreapp2.2\LoanAppraisalApi.pdb
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.csprojAssemblyReference.cache
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.csproj.CoreCompileInputs.cache
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.RazorAssemblyInfo.cache
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.RazorAssemblyInfo.cs
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.AssemblyInfoInputs.cache
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.AssemblyInfo.cs
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.RazorTargetAssemblyInfo.cache
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.dll
+C:\Users\swainaina\source\repos\LoanAppraisalApi\LoanAppraisalApi\obj\Release\netcoreapp2.2\LoanAppraisalApi.pdb
